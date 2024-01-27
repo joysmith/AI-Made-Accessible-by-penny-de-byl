@@ -354,7 +354,7 @@ Notice: Simulating human intelligence like nature of code by daniel shiffman
 
 <img src="notes/simulate human intelligence.png" width="400">
   
-<img src="notes/AI field.png" width="400">
+<img src="notes/AI field.png" width="700">
 
 1. Robotics: think like giving life to metal circuit and code
 
