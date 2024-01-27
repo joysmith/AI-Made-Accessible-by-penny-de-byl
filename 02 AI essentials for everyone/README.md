@@ -361,18 +361,30 @@ Notice: Simulating human intelligence like nature of code by daniel shiffman
 - industrial robot
 - driverless car
 
+<br>
+<br>
+
 2. Planning: the ability of machine or system to set and achieve goal just like human
 
 - gps route, best route on car
+
+<br>
+<br>
 
 3. Vision: recognize, analyze and interpret visual data like photos, videos, diagrams, other visual information
 
 - smart phone camera: it recognize faces, identifying objects, and even adjusting focus, face unlock,
 - medical imaging, surveillance, autonomous vehicle
 
+<br>
+<br>
+
 4. Speech: (COMMUNICATION) the ability of machile to understand and generate human speech, like complex sentences, idioms, sarcasm
 
 - Alexa, siri
+
+<br>
+<br>
 
 5. Expert system: specialists, trained to know everything there is to know about certain topic and use that knowledge to make informed decisions or solve complex problem
 
@@ -381,10 +393,16 @@ Notice: Simulating human intelligence like nature of code by daniel shiffman
 - finance to predict market
 - engineering: to solve complex problem -pcb routing
 
+<br>
+<br>
+
 6. NLP
 
 - customer chat bot
 - google search question
+
+<br>
+<br>
 
 7. Machine learning: the science of getting computer to learn and act like humans and improve their learning over time
 
