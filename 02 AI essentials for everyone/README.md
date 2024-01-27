@@ -350,6 +350,44 @@ The most notable concern in the Red Sea is the presence of fire coral and lionfi
 
 ## 12. Artificial Intelligence: An Overview<a id="12"></a>
 
-```
+Notice: Simulating human intelligence like nature of code by daniel shiffman
 
-```
+<img src="notes/simulate human intelligence.png" width="400">
+  
+<img src="notes/AI field.png" width="400">
+
+- Robotics: think like giving life to metal circuit and code
+
+  - industrial robot
+  - driverless car
+
+- Planning: the ability of machine or system to set and achieve goal just like human
+
+  - gps route, best route on car
+
+- Vision: recognize, analyze and interpret visual data like photos, videos, diagrams, other visual information
+
+  - smart phone camera: it recognize faces, identifying objects, and even adjusting focus, face unlock,
+  - medical imaging, surveillance, autonomous vehicle
+
+- Speech: (COMMUNICATION) the ability of machile to understand and generate human speech, like complex sentences, idioms, sarcasm
+
+  - Alexa, siri
+
+- Expert system: specialists, trained to know everything there is to know about certain topic and use that knowledge to make informed decisions or solve complex problem
+
+  - lawyer:
+  - doctor: you type symptoms to perform diagnoses -traya
+  - finance to predict market
+  - engineering: to solve complex problem -pcb routing
+
+- NLP
+
+  - customer chat bot
+  - google search question
+
+- Machine learning: the science of getting computer to learn and act like humans and improve their learning over time
+  - chatgpt
+  - netflix series recommendation, based on past choice
+  - email spam detection
+  - twitter, instagram, youtube, discord, social media feed content showing, based on past choice
